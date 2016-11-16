@@ -1,7 +1,5 @@
 # college-pay-visuals
 
-## Project Description 
-
 This is a repository for an on-going side project to visualize college pay by college. 
 
 This project began after I encounted data released by the Department of Education during my senior year of college (2015) with details numbers on student outcomes by colleges. 
